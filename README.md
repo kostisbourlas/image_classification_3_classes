@@ -1,6 +1,4 @@
-# wings_image_classification
-WINGS Machine Learning Assessment test
-
+# Image Classification 3 Classes
 
 Dataset can be found here: https://www.kaggle.com/andrewmvd/animal-faces/download
 
